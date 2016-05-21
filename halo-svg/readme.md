@@ -2,7 +2,7 @@
 
 
 
-![](milsymbol-halo-svg.svg)
+![](halo-example.svg)
 
 ## Usage
 Simply load the file milsymbol-square-icon.js into your HTML page and the method getSquareIcon() is added to milsymbol.

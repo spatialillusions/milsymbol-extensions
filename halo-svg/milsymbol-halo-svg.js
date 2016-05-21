@@ -1,5 +1,5 @@
 MS.addMarkerParts(
-	function dropshadow(){
+	function halo(){
 		var haloColor = this.haloColor || 'rgb(255,255,0)';
 		var haloRadius = this.haloRadius;
 		//var haloBlur = 0;

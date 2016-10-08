@@ -2,6 +2,12 @@
 
 ![](halo-example.png?raw=true)
 
+----
+**It is now possible to use built in functionality in milsymbol to have this for both SVG and Canvas**
+https://github.com/spatialillusions/milsymbol/issues/50
+
+----
+
 The halo-svg extension creates a halo around the symbol that can be used to indicate selected symbols, or to simply make the symbols stand out against the background.
 
 This extension only works with SVG output and not with Canvas output. If you use it with Canvas methods the symbol will be returned without the halo.
